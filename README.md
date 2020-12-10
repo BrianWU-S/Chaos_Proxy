@@ -4,6 +4,8 @@
 
 ```plain
 video-player <---> chaos-proxy <---> blank-server <---> video-gen 生成的视频分块
+
+Chaos-proxy 和 blank-server为项目中一部分
 ```
 
 ## Development Guide
